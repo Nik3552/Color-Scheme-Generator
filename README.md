@@ -1,4 +1,5 @@
 🎨 Color-Scheme-Generator
+
 The Color-Scheme-Generator is a simple yet powerful web tool that helps you create beautiful color palettes for your projects. Whether you’re a designer, developer, or just someone who loves experimenting with colors, this generator makes it easy to build harmonious color schemes with just a few clicks.
 
 ✨ Features
