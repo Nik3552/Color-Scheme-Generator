@@ -12,3 +12,5 @@ The Color-Scheme-Generator is a simple yet powerful web tool that helps you crea
 💾 Export your palette to use in your designs or apps
 
 ⚡ Clean, responsive UI for desktop and mobile
+
+https://www.thecolorapi.com/
